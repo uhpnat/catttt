@@ -1,0 +1,151 @@
+{
+    "iphone": [
+        {
+            "imgThongBao": "./img/top-mungkhaitruong.svg",
+            "imgIphone": "./img/ip14/iPhone14-ShopDunk-do.png",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "valueIP": 0,
+            "giamGiaIphone": "??????",
+            "giaIphone": 10000
+        },
+           {
+            "imgThongBao": "./img/top-mungkhaitruong.svg",
+            "imgIphone": "./img/ip14/iPhone14-ShopDunk-do.png",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "valueIP": 0,
+            "giamGiaIphone": "??????",
+            "giaIphone": 10000
+        },
+           {
+            "imgThongBao": "./img/top-mungkhaitruong.svg",
+            "imgIphone": "./img/ip14/iPhone14-ShopDunk-do.png",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "valueIP": 0,
+            "giamGiaIphone": "??????",
+            "giaIphone": 10000
+        },
+           {
+            "imgThongBao": "./img/top-mungkhaitruong.svg",
+            "imgIphone": "./img/ip14/iPhone14-ShopDunk-do.png",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "valueIP": 0,
+            "giamGiaIphone": "??????",
+            "giaIphone": 10000
+        }
+    ],
+    "watch": [
+        {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/watch-1.webp",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/watch-1.webp",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/watch-1.webp",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/watch-1.webp",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/watch-1.webp",
+            "tenIphone": "iPhone 7777777 ",
+            "dungLuong": "16gb",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/watch-1.webp",
+            "tenIphone": "iPhone 7777777 ",
+            "dungLuong": "16gb",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/watch-1.webp",
+            "tenIphone": "iPhone 7777777 ",
+            "dungLuong": "16gb",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/watch-1.webp",
+            "tenIphone": "iPhone 7777777 ",
+            "dungLuong": "16gb",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/watch-1.webp",
+            "tenIphone": "iPhone 7777777 ",
+            "dungLuong": "16gb",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/watch-1.webp",
+            "tenIphone": "iPhone 7777777 ",
+            "dungLuong": "16gb",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/watch-1.webp",
+            "tenIphone": "iPhone 7777777 ",
+            "dungLuong": "16gb",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }
+    ],
+    "ipad": [
+        {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/ipad-1.webp",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/ipad-1.webp",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/ipad-1.webp",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }, {
+            "imgThongBao": "./img/top-moi.svg",
+            "imgIphone": "./img/ipad-1.webp",
+            "tenIphone": "iPhone 14 ",
+            "dungLuong": "64GB",
+            "giamGiaIphone": "??????",
+            "giaIphone": "??????"
+        }
+    ]
+  }
